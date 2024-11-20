@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Superhuman No Background",
+  "version": "1.2",
+  "description": "Remove the background photo and display the email address dynamically in Superhuman.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://mail.superhuman.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Superhuman No Background"
+  }
+}
