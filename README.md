@@ -33,3 +33,17 @@ This Chrome extension customizes your Superhuman experience by emoving the defau
 ## License
 Licensed under MIT. Modify and use freely.
 
+Feel free to contribute to the project by submitting issues or pull requests! 🚀
+
+
+## About
+
+<div align="center">
+  Rockstar Developers 🤘 for the Music Industry<br>
+  <a href="https://www.musictechlab.io/">Website</a>
+  <span> | </span>
+  <a href="https://linkedin.com/company/musictechlab">LinkdedIn</a><span> | </span>
+  <a href="mailto:office@musictechlab.io">Let's talk</a><br>
+  Crafted by <a href="https://www.musictechlab.io">www.musictechlab.io</a>
+</div>
+

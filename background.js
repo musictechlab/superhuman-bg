@@ -11,14 +11,12 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
               }
               .centered-email {
                 position: fixed;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
+                top: 80%;
+                left: 65px;
                 font-size: 18px;
                 font-family: Arial, sans-serif;
                 color: #555;
                 z-index: 9999;
-                padding: 10px 20px;
               }
             `,
           });
