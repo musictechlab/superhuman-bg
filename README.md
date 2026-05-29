@@ -1,6 +1,8 @@
 
 # Superhuman No Background Chrome Extension
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 This Chrome extension customizes your Superhuman experience by emoving the default background image.
 
 ## Features
@@ -35,7 +37,6 @@ Licensed under MIT. Modify and use freely.
 
 Feel free to contribute to the project by submitting issues or pull requests! ðŸš€
 
-
 ## About
 
 <div align="center">
@@ -46,4 +47,3 @@ Feel free to contribute to the project by submitting issues or pull requests! ðŸ
   <a href="mailto:office@musictechlab.io">Let's talk</a><br>
   Crafted by <a href="https://www.musictechlab.io">www.musictechlab.io</a>
 </div>
-
